@@ -1,2 +1,2 @@
 # WebUiAuto
-Java+Testng+Manven
+Java+Testng+Maven
